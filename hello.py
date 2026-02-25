@@ -1,3 +1,3 @@
 print("Hello, Git!")
-print("This line is from the feature branch")
+print("This is from CONFLICT branch")
 print("This line is from the feature branch")
